@@ -1,5 +1,6 @@
 [![Build Status](https://dev.azure.com/labidi/labidi/_apis/build/status%2FLITBIC.labidi?branchName=master)](https://dev.azure.com/labidi/labidi/_build/latest?definitionId=1&branchName=master)
 
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
